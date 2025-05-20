@@ -1,7 +1,7 @@
 
 # Table of Contents
 
-1.  [Cybershuttle overall Ux](#org1d49dd8):ATTACH:
+1.  [Cybershuttle overall Ux](#org1d49dd8)
 2.  [Cybershuttle - Modules and their requirements](#org53e962b)
     1.  [Storage](#org7f005eb)
         1.  [Requirement of an storage instance](#orgb765903)
